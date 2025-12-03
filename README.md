@@ -38,9 +38,7 @@ The workflow includes:
 
 
  📁 Project Files
-- **Dashboard (Live):** [Retail Profit Turnaround Dashboard on Tableau Public](https://public.tableau.com/views/Book1_17641664580790/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-- **Dashboard PDF:** `retail_dashboard.pdf`  
-- **SQL Script:** `retail_profit_turnaround.sql`  
+- **Dashboard (Live):** [Retail Profit Turnaround Dashboard on Tableau Public](https://public.tableau.com/views/Book1_17641664580790/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)    
 - **Jupyter Notebook (.ipynb):** *Under reconstruction — will be added soon*  
 
 
